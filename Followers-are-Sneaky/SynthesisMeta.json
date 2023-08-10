@@ -1,0 +1,16 @@
+{
+  "Nickname": "Followers-are-Sneaky",
+  "Visibility": "Visible",
+  "OneLineDescription": "Adds Doesn't Affect Stealth flag to followers.",
+  "LongDescription": "",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [],
+  "TargetedReleases": [
+    "SkyrimLE",
+    "SkyrimSE",
+    "SkyrimVR",
+    "EnderalLE",
+    "EnderalSE",
+    "SkyrimSEGog"
+  ]
+}
